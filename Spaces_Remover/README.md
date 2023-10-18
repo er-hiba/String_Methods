@@ -1,5 +1,5 @@
 # Spaces_Remover
 ## Description
 This program removes spaces from an input string and displays the result.
-# Example
+## Example
 <img src="example.png">
